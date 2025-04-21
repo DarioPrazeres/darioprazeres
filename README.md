@@ -23,7 +23,7 @@ I'm a passionate software developer focused on technology, coding, and creating 
 
 ## 🌍 Find me also at:
 - 🔗 [Portfolio](https://darioprazeres.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/darioprazeres/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dário-prazeres/)
 - 🐦 [Twitter/X](https://twitter.com/darioprazeres)
 
 ---
