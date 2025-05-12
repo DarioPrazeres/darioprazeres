@@ -9,7 +9,7 @@ const rssFeedUrl = 'https://darioprazeres.substack.com/feed';
 const proxyUrl = 'https://api.allorigins.win/get?url=';
 
 // API do dev.to
-const devToApiUrl = 'https://dev.to/api/articles?username=darioprazeres'; // Substitua pelo seu username no dev.to
+const devToApiUrl = 'https://dev.to/api/articles?username=darioprazeres'; 
 
 // Função para carregar posts do Substack
 function loadSubstackRSS() {
@@ -73,7 +73,7 @@ function subscribeNewsletter(event) {
     const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
     if (emailRegex.test(email)) {
         // Se o e-mail for válido, redireciona para o Substack
-        window.open(`https://darioprazeres.substack.com`, '_blank'); // Substitua pelo seu link Substack
+        window.open(`https://darioprazeres.substack.com`, '_blank'); 
         emailInput.value = ''; // Limpa o campo após o envio
         alert('Inscrição realizada com sucesso!'); // Mensagem de confirmação
     } else {
