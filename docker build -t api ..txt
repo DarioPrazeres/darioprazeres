@@ -1,0 +1,5 @@
+docker build -t api .
+Docker run-p 8000:8000 api
+
+docker build -t frontend_bgp .
+docker run -p 3000:3000 frontend_bgp
