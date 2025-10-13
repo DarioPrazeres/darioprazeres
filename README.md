@@ -1,37 +1,59 @@
-# 👋 Hi, I'm Dário Prazeres!
+# 👋 Hey there, I'm **Dário Prazeres**
 
-I'm a passionate software developer focused on technology, coding, and creating innovative solutions. I have experience with **JavaScript**, **HTML/CSS**, **ASP.NET MVC**, and I love working on projects ranging from weather apps to restaurant management systems.
+💻 **Software Developer** | 🌍 **Tech Enthusiast** | 🚀 **Creative Coder**
 
----
-
-## 🚀 Technologies and Tools I Use:
-- 🖥️ HTML | CSS | JavaScript
-- ⚙️ ASP.NET MVC | C#
-- 🛠️ Git & GitHub
-- 🌐 REST APIs
-- 📦 Node.js (learning)
+Sou apaixonado por tecnologia, programação e criar soluções inovadoras que tornam a vida mais fácil.
+Atualmente, trabalho com **JavaScript**, **HTML/CSS** e **ASP.NET MVC**, e adoro transformar ideias em projetos reais — desde apps de clima até sistemas de gestão de restaurantes.
 
 ---
 
-## 📌 Featured Projects:
-- [🌤️ Weather App](https://github.com/darioprazeres/Wheather-App): A simple weather app using JavaScript and an external API.
-- [🍽️ Restaurant](https://github.com/darioprazeres/Restaurant): A digital menu for restaurants.
-- [📝 ToDo List](https://github.com/darioprazeres/ToDo-List): A basic to-do list app built with vanilla JavaScript.
-- [🚫 404 Not Found Page](https://github.com/darioprazeres/404-not-found): A custom error page built with HTML/CSS.
+## ⚙️ **Tech Stack & Tools**
+
+🧠 **Languages & Frameworks:**
+`HTML` · `CSS` · `JavaScript` · `C#` · `ASP.NET MVC`
+
+🧰 **Tools & Platforms:**
+`Git` · `GitHub` · `REST APIs` · `Node.js (learning)`
 
 ---
 
-## 🌍 Find me also at:
-- 🔗 [Portfolio](https://darioprazeres.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dário-prazeres/)
-- 🐦 [Twitter/X](https://twitter.com/darioprazeres)
+## 🌟 **Featured Projects**
+
+🔹 [🌤️ Weather App](https://github.com/darioprazeres/Wheather-App)
+Aplicação simples de meteorologia que consome uma API externa usando JavaScript.
+
+🔹 [🍽️ Restaurant](https://github.com/darioprazeres/Restaurant)
+Menu digital para restaurantes — moderno, responsivo e fácil de usar.
+
+🔹 [📝 ToDo List](https://github.com/darioprazeres/ToDo-List)
+Lista de tarefas básica criada com JavaScript puro.
+
+🔹 [🚫 404 Not Found Page](https://github.com/darioprazeres/404-not-found)
+Página de erro personalizada feita com HTML e CSS.
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darioprazeres&show_icons=true&theme=dracula)
+## 🌐 **Find Me Online**
+
+💼 [**LinkedIn**](https://www.linkedin.com/in/dário-prazeres/)
+🧭 [**Portfolio**](https://darioprazeres.github.io/portfolio)
+🐦 [**Twitter/X**](https://twitter.com/darioprazeres)
 
 ---
 
-💡 **Fun Fact:** I'm currently one of the most active developers in the GitHub community in Angola! 🇦🇴✨
+## 📊 **GitHub Stats**
 
+![Dário's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darioprazeres&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darioprazeres&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117)
+
+
+---
+
+## ✨ **Fun Fact**
+
+🇦🇴 Sou um dos desenvolvedores mais ativos da comunidade GitHub em **Angola** — e continuo a aprender e crescer todos os dias!
+
+---
+
+Queres que eu também adicione **badges** (como “JavaScript”, “C#”, “GitHub”, etc.) e um **banner visual** no topo?
+Posso deixar o README com um visual ainda mais profissional (tipo “perfil de desenvolvedor destaque”).
