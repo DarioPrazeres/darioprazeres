@@ -54,6 +54,3 @@ Página de erro personalizada feita com HTML e CSS.
 🇦🇴 Sou um dos desenvolvedores mais ativos da comunidade GitHub em **Angola** — e continuo a aprender e crescer todos os dias!
 
 ---
-
-Queres que eu também adicione **badges** (como “JavaScript”, “C#”, “GitHub”, etc.) e um **banner visual** no topo?
-Posso deixar o README com um visual ainda mais profissional (tipo “perfil de desenvolvedor destaque”).
