@@ -22,14 +22,6 @@ Atualmente, trabalho com **JavaScript**, **HTML/CSS** e **ASP.NET MVC**, e adoro
 🔹 [🌤️ Weather App](https://github.com/darioprazeres/Wheather-App)
 Aplicação simples de meteorologia que consome uma API externa usando JavaScript.
 
-🔹 [🍽️ Restaurant](https://github.com/darioprazeres/Restaurant)
-Menu digital para restaurantes — moderno, responsivo e fácil de usar.
-
-🔹 [📝 ToDo List](https://github.com/darioprazeres/ToDo-List)
-Lista de tarefas básica criada com JavaScript puro.
-
-🔹 [🚫 404 Not Found Page](https://github.com/darioprazeres/404-not-found)
-Página de erro personalizada feita com HTML e CSS.
 
 ---
 
