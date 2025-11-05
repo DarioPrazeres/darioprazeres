@@ -3,7 +3,7 @@
 💻 **Software Developer** | 🌍 **Tech Enthusiast** | 🚀 **Creative Coder**
 
 Sou apaixonado por tecnologia, programação e criar soluções inovadoras que tornam a vida mais fácil.
-Atualmente, trabalho com **JavaScript**, **HTML/CSS** e **ASP.NET MVC**, e adoro transformar ideias em projetos reais — desde apps de clima até sistemas de gestão de restaurantes.
+Atualmente, trabalho com **JavaScript**, **HTML/CSS** e **ASP.NET MVC**, e amo transformar ideias em projetos reais..
 
 ---
 
