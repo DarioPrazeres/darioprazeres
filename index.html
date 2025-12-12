@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dário Prazeres - Blog & Insights</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="#" class="logo">Dário Prazeres</a>
+
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#posts">Posts</a></li>
+                <li><a href="#newsletter">Newsletter</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="https://github.com/darioprazeres" target="_blank">GitHub</a></li>
+            </ul>
+
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Thoughts on Code,<br>Tech & Innovation</h1>
+        <p>Exploring the intersection of software development, creative problem-solving, and the future of technology in
+            Africa.</p>
+        <a href="#posts" class="cta-button">Read Latest Posts</a>
+    </section>
+
+    <!-- Substack Posts Section -->
+    <section class="posts-section">
+        <div class="section-header">
+            <h2>From My Newsletter</h2>
+            <p>Deep dives into software development and tech insights</p>
+        </div>
+        <div class="posts-grid" id="substackPosts">
+            <!-- Substack posts will be loaded here -->
+        </div>
+    </section>
+
+    <!-- Dev.to Posts Section -->
+    <section class="posts-section">
+        <div class="section-header">
+            <h2>Tech Articles</h2>
+            <p>Technical guides and tutorials from dev.to</p>
+        </div>
+        <div class="posts-grid" id="devtoPosts">
+            <!-- Dev.to posts will be loaded here -->
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section class="newsletter-section" id="newsletter">
+        <div class="newsletter-container">
+            <div class="newsletter-content">
+                <h2>Stay Updated</h2>
+                <p>Join the newsletter to receive the latest posts and insights directly in your inbox.</p>
+                <form id="newsletterForm" class="newsletter-form">
+                    <input type="email" name="email" placeholder="Enter your email" required class="email-input">
+                    <button type="submit" class="submit-button">Subscribe</button>
+                </form>
+                <p class="privacy-text">No spam. Unsubscribe anytime.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3>Dário Prazeres</h3>
+                    <p>Software Developer based in Luanda, Angola</p>
+                </div>
+                <div class="footer-links">
+                    <a href="https://github.com/darioprazeres" target="_blank">GitHub</a>
+                    <a href="https://www.linkedin.com/in/dário-prazeres/" target="_blank">LinkedIn</a>
+                    <a href="https://twitter.com/darioprazeres" target="_blank">Twitter</a>
+                    <a href="https://darioprazeres.github.io/portfolio" target="_blank">Portfolio</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span class="date-footer"></span> Dário Prazeres. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
