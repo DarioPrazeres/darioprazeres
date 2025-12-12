@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dário-prazeres/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://darioprazeres.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://darioprazeres.github.io/darioprazeres"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/darioprazeres"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
@@ -83,7 +83,7 @@ Modern weather application that consumes external APIs to provide real-time weat
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio
-<a href="https://darioprazeres.github.io/portfolio">
+<a href="https://darioprazeres.github.io/darioprazeres">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darioprazeres&repo=portfolio&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </a>
 
@@ -138,7 +138,7 @@ I'm always open to new opportunities, collaborations, and conversations about te
   <a href="https://www.linkedin.com/in/dário-prazeres/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://darioprazeres.github.io/portfolio">
+  <a href="https://darioprazeres.github.io/darioprazeres">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/darioprazeres">
